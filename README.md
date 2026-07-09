@@ -1,3 +1,4 @@
+<img width="1918" height="907" alt="Screenshot 2026-07-09 120525" src="https://github.com/user-attachments/assets/2157e88e-c8ef-4523-b0e9-9b6be4f6662f" />
 # wikipedia · tree
 
 A single-page, single-file web app that turns Wikipedia browsing into an
