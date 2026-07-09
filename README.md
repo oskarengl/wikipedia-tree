@@ -2,7 +2,7 @@
 
 A single-page, single-file web app that turns Wikipedia browsing into an
 infinite, explorable tree. Instead of navigating one article at a time, every
-link you click spawns a new "card" connected to the article it came from —
+link you click spawns a new "card" connected to the article it came from,
 so your browsing history becomes a visual, pannable, zoomable mind map.
 
 Open `index.html` in a browser and start clicking.
