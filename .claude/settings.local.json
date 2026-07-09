@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\projects\\\\wikipedia tree\" -Recurse -File -Include \"*.js\", \"*.ts\", \"*.css\", \"*.html\")",
+      "Bash(Select-Object -ExpandProperty FullName)"
+    ]
+  }
+}
